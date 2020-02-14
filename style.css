@@ -1,0 +1,30 @@
+
+body {
+  background-color:#fcf8e8;
+}
+h1 {
+  color:#79bac1;
+  font-family: 'Kristi';
+  text-align:center;
+  font-size:80px;
+
+}
+h3 {
+  color:#79bac1;
+}
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:15%;
+}
+hr {
+  border-style:dotted none none;
+  border-color:#79bac1;
+  border-width:5px;
+  width:5%;
+}
+ul {
+  margin:auto;
+  width:100%;
+}
